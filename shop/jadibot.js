@@ -7,15 +7,15 @@ return`╭──「 📖  *PRICE JADIBOT*」
 │
 ├ • *Permanen*
 │
-│ ⤷ *Harga :  25k [E-Wallet]*
-│ ⤷ *Harga :  28k [Pulsa]*
+│ ⤷ *Harga :  15k [E-Wallet]*
+│ ⤷ *Harga :  20k [Pulsa]*
 │
 ├─ 「 💰  *PAYMENT* 」
 │
-│ ⤷ *Dana [Diutamakan]*
+│ ⤷ *Dana*
 │ ⤷ *Ovo*
-│ ⤷ *Gopay*
-│ ⤷ *Pulsa Telkom*
+│ ⤷ *Gopay [Di utamakan]*
+│ ⤷ *Pulsa Indosat*
 │
 ├─ 「 👨‍💻  *RUN ON* 」
 │
@@ -25,7 +25,7 @@ return`╭──「 📖  *PRICE JADIBOT*」
 ├─ 「 📝  *NOTES* 」
 │
 │ ⤷ _Tidak perlu termux_
-│ ⤷ _Minat? Hubungi 0887435047326_
+│ ⤷ _Minat? Hubungi 085798328466_
 │
 ╰──「 *Thank's* 」
 `
